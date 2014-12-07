@@ -1,0 +1,4 @@
+<dataset>
+<JOB id="100" name="my first job" schedule="1 * 2"/>
+<JOB id="101" name="my second job" schedule="11 * 2"/>
+</dataset>
